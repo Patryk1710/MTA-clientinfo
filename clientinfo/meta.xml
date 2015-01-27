@@ -1,0 +1,6 @@
+<meta>
+	<info name="Client info" author="Patryk1710" type="script" version="1.0" description="Informations about client" />
+	<oop>true</oop>
+	<file src="title.png"/>
+	<script src="client.lua" type="client" />
+</meta>
